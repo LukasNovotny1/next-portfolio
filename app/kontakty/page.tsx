@@ -1,7 +1,9 @@
-import React from 'react'
+import Form from "@/components/contact";
 
 export default function ContactPage() {
   return (
-    <div>Contact</div>
-  )
+    <div>
+      <Form />
+    </div>
+  );
 }

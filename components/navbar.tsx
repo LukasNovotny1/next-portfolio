@@ -9,7 +9,7 @@ export default function Navbar() {
       <div
         className="max-w-screen-2xl flex flex-wrap items-center justify-between mx-auto p-4"
       >
-        <Link href="#" className="font-bold text-xl text-gray-900">Lukynovo</Link>
+        <Link href="" className="font-bold text-xl text-gray-900">Lukynovo</Link>
         <button
           id="menu-button"
           className="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100"
