@@ -11,9 +11,9 @@ export default function Hero() {
       </p>
       <div className="flex mt-8 gap-4 justify-center items-center">
         <button className="bg-black text-white px-6 py-3 rounded-md">
-          Contact me
+        <a href="/kontakt">Contact me</a>
         </button>
-        <button className="text-black px-2 py-2 rounded-md">My projects</button>
+        <button className="text-black px-2 py-2 rounded-md"> <a href="/projects">My projects</a></button>
       </div>
     </div>
   )

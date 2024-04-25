@@ -35,7 +35,7 @@ export default function MyProjects() {
             <p>Description about the project</p>
           </div>
         </div>
-        <div role="button" className="px-4 py-3 bg-black text-white rounded-md w-fit mx-auto mt-8">More projects.</div>
+        <div role="button" className="px-4 py-3 bg-black text-white rounded-md w-fit mx-auto mt-8"><a href="/projects">More projects.</a></div>
       </section>
   )
 }
